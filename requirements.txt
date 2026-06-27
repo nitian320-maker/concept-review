@@ -1,0 +1,5 @@
+# 桌面版依赖
+pywebview>=6.0
+
+# Web 版依赖（比赛 Demo）
+flask>=3.0
